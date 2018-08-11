@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 8a28f571213e685459dcb8ffccb1f95e
+timeCreated: 1510243868
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BookCase_1
+    100004: BookCase_10
+    100006: BookCase_11
+    100008: BookCase_12
+    100010: BookCase_13
+    100012: BookCase_14
+    100014: BookCase_15
+    100016: BookCase_16
+    100018: BookCase_17
+    100020: BookCase_18
+    100022: BookCase_19
+    100024: BookCase_2
+    100026: BookCase_20
+    100028: BookCase_21
+    100030: BookCase_22
+    100032: BookCase_23
+    100034: BookCase_24
+    100036: BookCase_3
+    100038: BookCase_4
+    100040: BookCase_5
+    100042: BookCase_6
+    100044: BookCase_7
+    100046: BookCase_8
+    100048: BookCase_9
+    400000: //RootNode
+    400002: BookCase_1
+    400004: BookCase_10
+    400006: BookCase_11
+    400008: BookCase_12
+    400010: BookCase_13
+    400012: BookCase_14
+    400014: BookCase_15
+    400016: BookCase_16
+    400018: BookCase_17
+    400020: BookCase_18
+    400022: BookCase_19
+    400024: BookCase_2
+    400026: BookCase_20
+    400028: BookCase_21
+    400030: BookCase_22
+    400032: BookCase_23
+    400034: BookCase_24
+    400036: BookCase_3
+    400038: BookCase_4
+    400040: BookCase_5
+    400042: BookCase_6
+    400044: BookCase_7
+    400046: BookCase_8
+    400048: BookCase_9
+    2300000: BookCase_1
+    2300002: BookCase_10
+    2300004: BookCase_11
+    2300006: BookCase_12
+    2300008: BookCase_13
+    2300010: BookCase_14
+    2300012: BookCase_15
+    2300014: BookCase_16
+    2300016: BookCase_17
+    2300018: BookCase_18
+    2300020: BookCase_19
+    2300022: BookCase_2
+    2300024: BookCase_20
+    2300026: BookCase_21
+    2300028: BookCase_22
+    2300030: BookCase_23
+    2300032: BookCase_24
+    2300034: BookCase_3
+    2300036: BookCase_4
+    2300038: BookCase_5
+    2300040: BookCase_6
+    2300042: BookCase_7
+    2300044: BookCase_8
+    2300046: BookCase_9
+    3300000: BookCase_1
+    3300002: BookCase_10
+    3300004: BookCase_11
+    3300006: BookCase_12
+    3300008: BookCase_13
+    3300010: BookCase_14
+    3300012: BookCase_15
+    3300014: BookCase_16
+    3300016: BookCase_17
+    3300018: BookCase_18
+    3300020: BookCase_19
+    3300022: BookCase_2
+    3300024: BookCase_20
+    3300026: BookCase_21
+    3300028: BookCase_22
+    3300030: BookCase_23
+    3300032: BookCase_24
+    3300034: BookCase_3
+    3300036: BookCase_4
+    3300038: BookCase_5
+    3300040: BookCase_6
+    3300042: BookCase_7
+    3300044: BookCase_8
+    3300046: BookCase_9
+    4300000: BookCase_1
+    4300002: BookCase_10
+    4300004: BookCase_11
+    4300006: BookCase_12
+    4300008: BookCase_13
+    4300010: BookCase_14
+    4300012: BookCase_15
+    4300014: BookCase_16
+    4300016: BookCase_17
+    4300018: BookCase_18
+    4300020: BookCase_19
+    4300022: BookCase_2
+    4300024: BookCase_20
+    4300026: BookCase_21
+    4300028: BookCase_22
+    4300030: BookCase_23
+    4300032: BookCase_24
+    4300034: BookCase_3
+    4300036: BookCase_4
+    4300038: BookCase_5
+    4300040: BookCase_6
+    4300042: BookCase_7
+    4300044: BookCase_8
+    4300046: BookCase_9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookCase_10Mat
+    second: {fileID: 2100000, guid: 9561e7ce62b43744d9ffc0003a999ac1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookCase_11Mat
+    second: {fileID: 2100000, guid: 4e5da732d3d90d148aa43d5ed0f34cda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookCase_12Mat
+    second: {fileID: 2100000, guid: 33c1a6d670cb585409d6954686a7f9a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookCase_13Mat
+    second: {fileID: 2100000, guid: 32a43fd17ba19b446bf610db01928e41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookCase_14Mat
+    second: {fileID: 2100000, guid: 2c54b65233b14c143b47f2a010523d8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookCase_15Mat
+    second: {fileID: 2100000, guid: ffd0861b9286e1448b5a1cf9c32ed495, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookCase_16Mat
+    second: {fileID: 2100000, guid: 67b00394463ebd94a99b97e0964ab6a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookCase_17Mat
+    second: {fileID: 2100000, guid: 5038b0a9390b9254591c668f2c79a095, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookCase_18Mat
+    second: {fileID: 2100000, guid: 046bfd9f0ec6f74489fc3bc77126bcec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookCase_19Mat
+    second: {fileID: 2100000, guid: f52bb9c8f491dd54785be7f656b4dbff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookCase_1Mat
+    second: {fileID: 2100000, guid: 661cba3431043e8448b1dedd6262f63e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookCase_20Mat
+    second: {fileID: 2100000, guid: a9c1f36a8b9bfcf43beb5d5e033c8277, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookCase_21Mat
+    second: {fileID: 2100000, guid: 7111c0bd671979e49822e6ba13964961, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookCase_22Mat
+    second: {fileID: 2100000, guid: 3fd7f15b7c80b614c96ed930b8f6bcae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookCase_23Mat
+    second: {fileID: 2100000, guid: 5100b26f1cdf6904e9fed446f08ff201, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookCase_24Mat
+    second: {fileID: 2100000, guid: 929e717c68ee948418d7ef398c9f9963, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookCase_2Mat
+    second: {fileID: 2100000, guid: 12efd63a948dc6d42aeaa6b7d950322d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookCase_3Mat
+    second: {fileID: 2100000, guid: 9a6b6a480b313cb42bfb9c08610aa48f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookCase_4Mat
+    second: {fileID: 2100000, guid: 39d677ee6eed55e43b267ede34adaa2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookCase_5Mat
+    second: {fileID: 2100000, guid: f5c8058f2104e884498cce6ac5ff51ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookCase_6Mat
+    second: {fileID: 2100000, guid: 16df2edae2a3ea740813683dbbecb66d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookCase_7Mat
+    second: {fileID: 2100000, guid: 63e07e85c963fb54b8c94fa72f1f24c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookCase_8Mat
+    second: {fileID: 2100000, guid: 042b2e97ebab0ec458065749ebd4eee5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookCase_9Mat
+    second: {fileID: 2100000, guid: a4376891bd45b544fbd84d616d3e3637, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
